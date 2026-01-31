@@ -350,6 +350,12 @@ footer .copy{
     display: none;
    }
    .btn-outline{
-    margin: 0 auto 0;
+    margin: 0 0 0 98px;
+    
+   }
+
+   .hero .hero-stats{
+   
+    text-align: center;
    }
 }
